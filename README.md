@@ -1,0 +1,1 @@
+# praktikum_basis-data_optimasi-query-dalam-SQL_week-9
